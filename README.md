@@ -1,4 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheStrgamer)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=TheStrgamer)](https://github.com/anuraghazra/github-readme-stats)
+
+[![](https://github-readme-stats.vercel.app/api?username=strgamer_ntnu)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **TheStrgamer/TheStrgamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
