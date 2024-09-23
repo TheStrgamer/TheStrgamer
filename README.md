@@ -1,4 +1,4 @@
-[![](https://github-readme-stats.vercel.app/api?username=TheStrgamer)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+[![](https://github-readme-stats.vercel.app/api?username=TheStrgamer)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheStrgamer&theme=tokyonight)
 
 
 [![](https://github-readme-stats.vercel.app/api?username=Strgamer-ntnu)](https://github.com/anuraghazra/github-readme-stats)
