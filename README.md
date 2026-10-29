@@ -22,7 +22,7 @@
 
 Praktisk og løsningsorientert utvikler med sterk teknisk bredde. Jeg lærer nye teknologier raskt, trives med problemløsning og liker å bygge tjenester som faktisk fungerer i praksis.
 
-- 🎓 Studerer **Dataingeniør** ved NTNU
+- 🎓 Studerer **Datateknologi** ved NTNU
 - 🤖 Jobbet med KI-agenter og språkmodeller i **Cogito NTNU**
 - 🌐 Teamleder for nettside og servermiljø i **Make NTNU**
 - 🏋️ Trener i **NTNUI Calisthenics**
