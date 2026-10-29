@@ -1,7 +1,7 @@
 <h1 align="center">Hei, jeg er Konrad 👋</h1>
 
 <p align="center">
-  <em>Dataingeniørstudent @ NTNU · Full-stack · ML · Spillutvikling</em>
+  <em>Datateknologistudent @ NTNU · Full-stack · KI </em>
 </p>
 
 <p align="center">
